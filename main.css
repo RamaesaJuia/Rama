@@ -106,9 +106,8 @@ header h1 {
   padding: 20px 5px;
 }
 header .underline {
-  color: black;
+  color: white;
   padding: 0 20px;
-  box-shadow: inset 0 -40px 0 0 #979AE1; 
 }
 header p {
   font-size: 20px;
